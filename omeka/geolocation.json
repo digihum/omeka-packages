@@ -1,6 +1,7 @@
 {
     "packages": {
         "omeka/geolocation": [
+            {
                 "name": "omeka/geolocation",
                 "version": "3.2.3",
                 "type": "omeka-plugin",
