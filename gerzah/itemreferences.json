@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "name":"gerzah/itemreferences",
+    "type": "omeka-plugin",
+    "version": "master",
+    "source": {
+        "url": "https://github.com/GerZah/plugin-ItemReferences.git",
+        "type": "git",
+        "reference": "master"
+        }
+    }
+}
