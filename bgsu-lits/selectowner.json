@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "bgsu-lits/selectowner": [
+            {
+                "name": "bgsu-lits/selectowner",
+                "version": "1.1",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/BGSU-LITS/omeka-plugin-SelectOwner",
+                    "reference": "v1.1",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "SelectOwner"
+                }
+            }
+        ]
+    }
+}

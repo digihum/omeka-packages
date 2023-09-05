@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "bgsu-lits/ldap": [
+            {
+                "name": "bgsu-lits/ldap",
+                "version": "0.4.0",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/BGSU-LITS/LDAP-Plugin.git",
+                    "type": "git",
+                    "reference": "0.4.0"
+                },
+                "extra": {
+                    "installer-name": "Ldap"
+                }
+            }
+        ]
+    }
+}

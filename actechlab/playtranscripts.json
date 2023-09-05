@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "actechlab/playtranscripts": [
+            {
+                "name": "actechlab/playtranscripts",
+                "version": "1.0",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://actechlab.warwick.ac.uk/digital-humanities/playable-transcripts.git",
+                    "reference": "master",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "PlayTranscripts"
+                }
+            }
+        ]
+    }
+}

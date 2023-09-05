@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "performantsoftware/neatline": [
+            {
+                "name": "performantsoftware/neatline",
+                "version": "2.6.0",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/performant-software/Neatline.git",
+                    "reference": "v2.6.0",
+                    "type": "git"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/performant-software/Neatline/releases/download/v2.6.0/Neatline-2.6.0.zip"
+                },
+                "extra": {
+                    "installer-name": "Neatline"
+                }
+            }
+        ]
+    }
+}

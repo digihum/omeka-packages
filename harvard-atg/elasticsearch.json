@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "harvard-atg/elasticsearch": [
+            {
+                "name": "harvard-atg/elasticsearch",
+                "version": "1.2.0",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.5",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/Harvard-ATG/omeka-plugin-Elasticsearch.git",
+                    "type": "git",
+                    "reference": "v1.2.0"
+                },
+                "extra": {
+                    "installer-name": "Elasticsearch"
+                }
+            }
+        ]
+    }
+}

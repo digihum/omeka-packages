@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "actechlab/neatlinejumpbubble": [
+            {
+                "name": "actechlab/neatlinejumpbubble",
+                "version": "0.1",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "performantsoftware/neatline": ">=2.6.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://actechlab.warwick.ac.uk/digital-humanities/nl-plugin-jumpbubble.git",
+                    "reference": "master",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "NeatlineJumpBubble"
+                }
+            }
+        ]
+    }
+}

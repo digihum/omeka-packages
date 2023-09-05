@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "omeka/simplepages": [
+            {
+                "name": "omeka/simplepages",
+                "version": "3.2.1",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=3.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/plugin-SimplePages.git",
+                    "type": "git",
+                    "reference": "v3.2.1"
+                },
+                "extra": {
+                    "installer-name": "SimplePages"
+                }
+            }
+        ]
+    }
+}
