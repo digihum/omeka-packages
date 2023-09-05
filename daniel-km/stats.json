@@ -1,0 +1,22 @@
+{
+    "packages": {
+        "daniel-km/stats": [
+            {
+                "name": "daniel-km/stats",
+                "version": "2.2.4.2",
+                "type": "omeka-plugin",
+                "source": {
+                    "url": "https://github.com/Daniel-KM/Omeka-plugin-Stats.git",
+                    "reference": "2.2.4.2",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "Stats"
+                },
+                "require": {
+                    "composer/installers": "^1.0||^2.0"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "omeka/dublincoreextended": [
+            {
+                "name": "omeka/dublincoreextended",
+                "version": "2.3",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/plugin-DublinCoreExtended.git",
+                    "type": "git",
+                    "reference": "v2.3"
+                },
+                "extra": {
+                    "installer-name": "DublinCoreExtended"
+                }
+            }
+        ]
+    }
+}

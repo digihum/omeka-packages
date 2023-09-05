@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "omeka/simplevocab": [
+            {
+                "name": "omeka/simplevocab",
+                "version": "2.2.3",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/plugin-SimpleVocab.git",
+                    "reference": "v2.2.3",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "SimpleVocab"
+                }
+            }
+        ]
+    }
+}

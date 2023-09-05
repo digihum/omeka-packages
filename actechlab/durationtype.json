@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "actechlab/durationtype": [
+            {
+                "name": "actechlab/durationtype",
+                "version": "0.1",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "biblibre/elementtypes": ">=0.5.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://actechlab.warwick.ac.uk/digital-humanities/omeka-plugin-DurationType.git",
+                    "reference": "v1",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "DurationType"
+                }
+            }
+        ]
+    }
+}

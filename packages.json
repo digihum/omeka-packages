@@ -1,0 +1,65 @@
+{
+    "packages": [],
+    "includes": {
+        "zerocrates/hideelements.json": {
+            "sha": "d23893795736fa68d7627eca7eeda9c5d8f734bd"
+        },
+        "omeka/coins.json": {
+            "sha": "bd8b96e06017a923dc8506d46fe98bccdcf1a4d9"
+        },
+        "omeka/dublincoreextended.json": {
+            "sha": "dffc7632974990a76feb14be6e379bdb42349838"
+        },
+        "omeka/exhibitbuilder.json": {
+            "sha": "cedadf5414bb3e026f012924efbb526ad5bcba5d"
+        },
+        "omeka/simplecontactform.json": {
+            "sha": "28a4366c596fe112bee9d4d2799e0a24048a0e07"
+        },
+        "omeka/derivativeimages.json": {
+            "sha": "6138994c6a7a26683e660609c9b30cc6e84f8bad"
+        },
+        "omeka/simplepages.json": {
+            "sha": "06fabd3479e8e75fcd07793187c4370297f87d9a"
+        },
+        "daniel-km/stats.json": {
+            "sha": "256d155629cb214f4934d847d0a06362d20d8ecc"
+        },
+        "omeka/geolocation.json": {
+            "sha": "919f153aba4e3eb9f0fd2a9f155526e923da7bd6"
+        },
+        "omeka/simplevocab.json": {
+            "sha": "990bcb149f365df9fbc36cd497b787d7caaa3450"
+        },
+        "actechlab/playtranscripts.json": {
+            "sha": "32e8bfb2f63bfb82f98ba968c2da0fcaa1e615e6"
+        },
+        "actechlab/neatlinejumpbubble.json": {
+            "sha": "55e7b643fa8020ee473350a55cc0b7a896e48b41"
+        },
+        "scholarslab/neatlinefeatures.json": {
+            "sha": "43291ae65a8b998b9561c835b91c235535b3ae17"
+        },
+        "scholarslab/neatlinewaypoints.json": {
+            "sha": "5521591c707379b9f67524466a059f228c2ab428"
+        },
+        "performantsoftware/neatline.json": {
+            "sha": "9f3ea82053ec3796b372e6682b1d45469b6a6ec4"
+        },
+        "biblibre/elementtypes.json": {
+            "sha": "1c67d55a04a0b1e532acc85f4a2666fe457e2f6b"
+        },
+        "actechlab/durationtype.json": {
+            "sha": "a8fbbb46e313add55f2f9a37fd87fa350d610700"
+        },
+        "bgsu-lits/selectowner.json": {
+            "sha": "6af6da9f7092e63484e3d54a14b904766f0758dd"
+        },
+        "harvard-atg/elasticsearch.json": {
+            "sha": "20b42dd877209770ce15dc663a9c369bbcbebda4"
+        },
+        "bgsu-lits/ldap.json": {
+            "sha": "a772a5dfabc3727dd29f86dcbcaea082aac661ce"
+        }
+    }
+}

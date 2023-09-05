@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "scholarslab/neatlinewaypoints": [
+            {
+                "name": "scholarslab/neatlinewaypoints",
+                "version": "2.0.2",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0",
+                    "performantsoftware/neatline": ">=2.6.0",
+                    "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/scholarslab/NeatlineWaypoints.git",
+                    "reference": "2.0.2",
+                    "type": "git"
+                },
+                "extra": {
+                    "installer-name": "NeatlineWaypoints"
+                }
+            }
+        ]
+    }
+}
