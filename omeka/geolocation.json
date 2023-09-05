@@ -1,38 +1,37 @@
 {
     "packages": {
-        "omeka/exhibitbuilder": [
-            {
-                "name": "omeka/exhibitbuilder",
-                "version": "3.6.1",
+        "omeka/geolocation": [
+                "name": "omeka/geolocation",
+                "version": "3.2.3",
                 "type": "omeka-plugin",
                 "require": {
-                    "omeka/omeka": ">=3.0"
+                    "omeka/omeka": ">=2.5"
                 },
                 "source": {
-                    "url": "https://github.com/omeka/plugin-ExhibitBuilder.git",
-                    "type": "git",
-                    "reference": "v3.6.1"
+                    "url": "https://github.com/omeka/plugin-Geolocation.git",
+                    "reference": "v3.2.3", 
+                    "type": "git"
                 },
                 "extra": {
-                    "installer-name": "ExhibitBuilder"
+                    "installer-name": "Geolocation"
                 }
             },
             {
-                "name": "omeka/exhibitbuilder",
-                "version": "3.4.3",
+                "name": "omeka/geolocation",
+                "version": "3.0",
                 "type": "omeka-plugin",
                 "require": {
-                    "omeka/omeka": ">=2.6",
-                    "composer/installers": "^1.0||^2.0"
+                    "omeka/omeka": ">=2.6"
                 },
                 "source": {
-                    "url": "https://github.com/omeka/plugin-ExhibitBuilder.git",
-                    "type": "git",
-                    "reference": "v3.4.3"
+                    "url": "https://github.com/omeka/plugin-Geolocation.git",
+                    "reference": "v3.0", 
+                    "type": "git"
                 },
                 "extra": {
-                    "installer-name": "ExhibitBuilder"
+                    "installer-name": "Geolocation"
                 }
+
             }
         ]
     }
