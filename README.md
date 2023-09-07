@@ -1,3 +1,5 @@
+# Omeka Packages (for composer)
+
 ## Usage
 
 Use this as a compser package repository that provides composer.json representations for omeka plugins that don't have one within the repository and therefore cannot be added to packagist. The URL is `https://digihum.github.io/omeka-packages/`. This can be added to a composer.json file.
