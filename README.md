@@ -40,7 +40,8 @@ To make a contribution of a new plugin please follow the following process and s
     }
     ```
     - https://getcomposer.org/doc/04-schema.md and tutorial https://www.w3resource.com/php/composer/composer-json-schema.php
-    - Add the plugin's folder name (alsoo it's php ClassName) that Omeka expects to an 'extras' section to be used with `composer/installers` to ensure the plugin is seen as valid.
+    - Add the plugin's folder name (also it's php ClassName) that Omeka expects to an 'extras' section to be used with `composer/installers` to ensure the plugin is seen as valid.
+    - Add your newly created patth to `includes` in packages.json in the root folder of the repository.
 
 To make a contribution of a new version to an existing plugin please add your complete contribution to the json array for the plugin in reverse order as below:
 
