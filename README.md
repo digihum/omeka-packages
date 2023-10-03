@@ -36,6 +36,7 @@ To make a contribution of a new plugin please follow the following process and s
                 @composer.json
                 "extras": {
                             "installer-name": "FOLDER-NAME"
+                }
          ]
     }
     ```
