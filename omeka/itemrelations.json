@@ -1,0 +1,25 @@
+{
+    "packages": {
+        "omeka/itemrelations": [
+            {
+                "name": "omeka/itemrelations",
+                "version": "2.1",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/plugin-ItemRelations.git",
+                    "type": "git",
+                    "reference": "v2.1"
+                },
+                "dist": {
+                  "url":"https://github.com/omeka/plugin-ItemRelations/releases/download/v2.1/ItemRelations-2.1.zip",
+                  "type": "zip"
+                "extra": {
+                    "installer-name": "ItemRelations"
+                }
+            }
+        ]
+    }
+}
