@@ -10,6 +10,9 @@
         "omeka/dublincoreextended.json": {
             "sha": "dffc7632974990a76feb14be6e379bdb42349838"
         },
+        "omeka/itemrelations.json": {
+            "sha": "dffc7632974990a76feb14be6e379bdb42349838"
+        },
         "omeka/exhibitbuilder.json": {
             "sha": "cedadf5414bb3e026f012924efbb526ad5bcba5d"
         },
