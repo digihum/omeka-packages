@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "omeka/omeka": [
+            {
+                "name": "omeka/omeka",
+                "version": "3.1.2",
+                "type": "omeka-core",
+                "require": {
+                  "php": "~5.6 || <=8.2"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "v3.1.2"
+                },
+                "dist": {
+                    "url": "https://github.com/omeka/Omeka/releases/download/v3.1.2/omeka-3.1.2.zip",
+                    "type": "zip"
+                }
+            },
+            {
+                "name": "omeka/omeka",
+                "version": "2.7",
+                "type": "omeka-core",
+                "require": {
+                  "php": "~5.3.3 || <=7.3"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "v2.7"
+                },
+                "dist": {
+                    "url": "https://github.com/omeka/Omeka/releases/download/v2.7/omeka-2.7.zip",
+                    "type": "zip"
+                }
+            },
+            {
+                "name": "omeka/omeka",
+                "version": "2.6.1",
+                "type": "omeka-core",
+                "require": {
+                  "php": "~5.3.3 || <=7.2"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "v2.6.1"
+                },
+                "dist": {
+                    "url": "https://github.com/omeka/Omeka/releases/download/v2.6.1/omeka-2.6.1.zip",
+                    "type": "zip"
+                }
+            },
+            {
+                "name": "omeka/omeka",
+                "version": "2.6",
+                "type": "omeka-core",
+                "require": {
+                  "php": "~5.3.3 || <=7.2"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "v2.6"
+                },
+                "dist": {
+                    "url": "https://github.com/omeka/Omeka/releases/download/v2.6/omeka-2.6.zip",
+                    "type": "zip"
+                }
+            }
+        ]
+    }
+}
