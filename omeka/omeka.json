@@ -1,76 +1,309 @@
 {
+    "minified": "composer/2.0",
     "packages": {
         "omeka/omeka": [
             {
                 "name": "omeka/omeka",
-                "version": "3.1.2",
-                "type": "omeka-core",
-                "require": {
-                  "php": "~5.6 || <=8.2"
-                  "composer/installers": "^1.0||^2.0"
-                },
+                "description": "",
+                "keywords": [],
+                "homepage": "",
+                "version": "v3.1.2",
+                "version_normalized": "3.1.2.0",
+                "license": [],
+                "authors": [],
                 "source": {
                     "url": "https://github.com/omeka/Omeka.git",
                     "type": "git",
-                    "reference": "v3.1.2"
+                    "reference": "c6a2f0a41fbfacf3940fa92865cb83114663fdfa"
                 },
                 "dist": {
-                    "url": "https://github.com/omeka/Omeka/releases/download/v3.1.2/omeka-3.1.2.zip",
-                    "type": "zip"
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/c6a2f0a41fbfacf3940fa92865cb83114663fdfa",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "c6a2f0a41fbfacf3940fa92865cb83114663fdfa"
+                },
+                "type": "library",
+                "time": "2023-10-05T20:04:00+00:00",
+                 "require": {
+                  "php": "~5.6 || <=8.2"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8|^6|^7|^8"
+                },
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.1.2"
                 }
             },
             {
-                "name": "omeka/omeka",
-                "version": "2.7",
-                "type": "omeka-core",
+                "version": "v3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "c3583a78409295c20c6afcdc163c5c19d1ae0d1a"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/c3583a78409295c20c6afcdc163c5c19d1ae0d1a",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "c3583a78409295c20c6afcdc163c5c19d1ae0d1a"
+                },
+                "time": "2023-03-24T00:50:36+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.1.1"
+                }
+            },
+            {
+                "version": "v3.1",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "709d9456fd95207a97f38bca4af3a0a0e541c935"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/709d9456fd95207a97f38bca4af3a0a0e541c935",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "709d9456fd95207a97f38bca4af3a0a0e541c935"
+                },
+                "time": "2022-12-21T22:30:54+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.1"
+                }
+            },
+            {
+                "version": "v3.0.3",
+                "version_normalized": "3.0.3.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "bd819be596adccde40c0d06e53f88d5254c05928"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/bd819be596adccde40c0d06e53f88d5254c05928",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "bd819be596adccde40c0d06e53f88d5254c05928"
+                },
+                "time": "2022-04-21T17:21:21+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.0.3"
+                }
+            },
+            {
+                "version": "v3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "86c9ab252bb37d6e6f6d5f851298420872954f1c"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/86c9ab252bb37d6e6f6d5f851298420872954f1c",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "86c9ab252bb37d6e6f6d5f851298420872954f1c"
+                },
+                "time": "2022-03-01T18:14:15+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.0.2"
+                }
+            },
+            {
+                "version": "v3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "7115217f2be7e773e296392d1283262c879fe60c"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/7115217f2be7e773e296392d1283262c879fe60c",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "7115217f2be7e773e296392d1283262c879fe60c"
+                },
+                "time": "2021-10-21T20:50:41+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.0.1"
+                }
+            },
+            {
+                "version": "v3.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "114edc7a9968b1e5b5145048748d0a362a33819f"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/114edc7a9968b1e5b5145048748d0a362a33819f",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "114edc7a9968b1e5b5145048748d0a362a33819f"
+                },
+                "time": "2021-09-21T23:09:29+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.0"
+                }
+            },
+            {
+                "version": "v2.8",
+                "version_normalized": "2.8.0.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "ccfff99b68cfb22dfba060b1cb88eca0e148015f"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/ccfff99b68cfb22dfba060b1cb88eca0e148015f",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "ccfff99b68cfb22dfba060b1cb88eca0e148015f"
+                },
+                 "require": {
+                  "php": "~5.3.3 || ^8.0"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "time": "2021-03-23T18:46:22+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.8"
+                }
+            },
+            {
+                "version": "v2.7.1",
+                "version_normalized": "2.7.1.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "2b184f38843aa53d87dfa95ec809e744bc9b3880"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/2b184f38843aa53d87dfa95ec809e744bc9b3880",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "2b184f38843aa53d87dfa95ec809e744bc9b3880"
+                },
+                "time": "2020-01-28T18:00:31+00:00",
+                "require": {
+                  "php": "~5.4 || <=7.3"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8|^6|^7"
+                },
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.7.1"
+                }
+            },
+            {
+                "version": "v2.7",
+                "version_normalized": "2.7.0.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "c27df538c3410eef05f99b39633368864302eaeb"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/c27df538c3410eef05f99b39633368864302eaeb",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "c27df538c3410eef05f99b39633368864302eaeb"
+                },
+                "time": "2019-05-21T19:17:59+00:00",
                 "require": {
                   "php": "~5.3.3 || <=7.3"
                   "composer/installers": "^1.0||^2.0"
                 },
-                "source": {
-                    "url": "https://github.com/omeka/Omeka.git",
-                    "type": "git",
-                    "reference": "v2.7"
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8"
                 },
-                "dist": {
-                    "url": "https://github.com/omeka/Omeka/releases/download/v2.7/omeka-2.7.zip",
-                    "type": "zip"
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.7"
                 }
             },
             {
-                "name": "omeka/omeka",
-                "version": "2.6.1",
-                "type": "omeka-core",
+                "version": "v2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "52e4998e05763b7444ba9557f4ddeea513848929"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/52e4998e05763b7444ba9557f4ddeea513848929",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "52e4998e05763b7444ba9557f4ddeea513848929"
+                },
+                "time": "2018-05-02T17:02:48+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.6.1"
+                }
+            },
+            {
+                "version": "v2.6",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "url": "https://github.com/omeka/Omeka.git",
+                    "type": "git",
+                    "reference": "bbb86aef38b36cf41e1f80074f6c331e9b2a6197"
+                },
+                "dist": {
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/bbb86aef38b36cf41e1f80074f6c331e9b2a6197",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "bbb86aef38b36cf41e1f80074f6c331e9b2a6197"
+                },
                 "require": {
                   "php": "~5.3.3 || <=7.2"
                   "composer/installers": "^1.0||^2.0"
                 },
-                "source": {
-                    "url": "https://github.com/omeka/Omeka.git",
-                    "type": "git",
-                    "reference": "v2.6.1"
-                },
-                "dist": {
-                    "url": "https://github.com/omeka/Omeka/releases/download/v2.6.1/omeka-2.6.1.zip",
-                    "type": "zip"
+                "time": "2018-02-15T01:42:35+00:00",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.6"
                 }
             },
             {
-                "name": "omeka/omeka",
-                "version": "2.6",
-                "type": "omeka-core",
-                "require": {
-                  "php": "~5.3.3 || <=7.2"
-                  "composer/installers": "^1.0||^2.0"
-                },
+                "version": "v2.5.1",
+                "version_normalized": "2.5.1.0",
                 "source": {
                     "url": "https://github.com/omeka/Omeka.git",
                     "type": "git",
-                    "reference": "v2.6"
+                    "reference": "3766535d35ed46d8cd435cf7d834c379f1dfb56e"
                 },
                 "dist": {
-                    "url": "https://github.com/omeka/Omeka/releases/download/v2.6/omeka-2.6.zip",
-                    "type": "zip"
+                    "url": "https://api.github.com/repos/omeka/Omeka/zipball/3766535d35ed46d8cd435cf7d834c379f1dfb56e",
+                    "type": "zip",
+                    "shasum": "",
+                    "reference": "3766535d35ed46d8cd435cf7d834c379f1dfb56e"
+                },
+                "time": "2017-05-24T14:31:28+00:00",
+                "require": {
+                  "php": "~5.3.3 || <=7.1"
+                  "composer/installers": "^1.0||^2.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "^2.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v2.5.1"
                 }
             }
         ]
