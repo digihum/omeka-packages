@@ -1,8 +1,7 @@
 {
     "packages": {
-        {
-            "type": "package",
-            "package": {
+        "zerocrates/hideelements": [
+            {
                 "name": "zerocrates/hideelements",
                 "version": "1.4",
                 "type": "omeka-plugin",
@@ -17,9 +16,7 @@
                 "extra": {
                     "installer-name": "HideElements"
                 }
-            }
-        },
-        "zerocrates/hideelements": [
+            },
             {
                 "name": "zerocrates/hideelements",
                 "version": "1.3",
