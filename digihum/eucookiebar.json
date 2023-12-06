@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "digihum/eucookiebar": [
+            {
+              "name": "digihum/eucookiebar",
+                "version": "2.0.0-beta.2",
+                "type": "omeka-plugin",
+                "source": {
+                    "url": "https://github.com/digihum/omeka-plugin-eucookiebar.git",
+                    "type": "git",
+                    "reference": "2.0.0-beta.2"
+                },
+                "extra": {
+                    "installer-name": "EUCookieBar"
+                }
+            }
+        ]
+    }
+}
