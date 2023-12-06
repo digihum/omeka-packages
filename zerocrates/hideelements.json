@@ -1,13 +1,31 @@
 {
     "packages": {
+        {
+            "type": "package",
+            "package": {
+                "name": "zerocrates/hideelements",
+                "version": "1.4",
+                "type": "omeka-plugin",
+                "require": {
+                    "omeka/omeka": ">=2.0"
+                },
+                "source": {
+                    "url": "https://github.com/zerocrates/HideElements.git",
+                    "type": "git",
+                    "reference": "v1.4"
+                },
+                "extra": {
+                    "installer-name": "HideElements"
+                }
+            }
+        },
         "zerocrates/hideelements": [
             {
                 "name": "zerocrates/hideelements",
                 "version": "1.3",
                 "type": "omeka-plugin",
                 "require": {
-                    "omeka/omeka": ">=2.0",
-                    "composer/installers": "^1.0||^2.0"
+                    "omeka/omeka": ">=2.0"
                 },
                 "source": {
                     "url": "https://github.com/zerocrates/HideElements.git",
