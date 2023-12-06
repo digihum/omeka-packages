@@ -37,6 +37,12 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
+                "support": {
+                    "issues": "https://github.com/omeka/Omeka/issues",
+                    "source": "https://github.com/omeka/Omeka/tree/v3.1.2"
+                },
                 "version": "v3.1.1",
                 "version_normalized": "3.1.1.0",
                 "source": {
@@ -57,6 +63,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v3.1",
                 "version_normalized": "3.1.0.0",
                 "source": {
@@ -77,6 +85,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v3.0.3",
                 "version_normalized": "3.0.3.0",
                 "source": {
@@ -97,6 +107,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v3.0.2",
                 "version_normalized": "3.0.2.0",
                 "source": {
@@ -117,6 +129,9 @@
                 }
             },
             {
+
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v3.0.1",
                 "version_normalized": "3.0.1.0",
                 "source": {
@@ -137,6 +152,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v3.0",
                 "version_normalized": "3.0.0.0",
                 "source": {
@@ -157,6 +174,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.8",
                 "version_normalized": "2.8.0.0",
                 "source": {
@@ -181,6 +200,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.7.1",
                 "version_normalized": "2.7.1.0",
                 "source": {
@@ -208,6 +229,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.7",
                 "version_normalized": "2.7.0.0",
                 "source": {
@@ -235,6 +258,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.6.1",
                 "version_normalized": "2.6.1.0",
                 "source": {
@@ -255,6 +280,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.6",
                 "version_normalized": "2.6.0.0",
                 "source": {
@@ -279,6 +306,8 @@
                 }
             },
             {
+                "name": "omeka/omeka",
+                "type": "library",
                 "version": "v2.5.1",
                 "version_normalized": "2.5.1.0",
                 "source": {
