@@ -15,7 +15,7 @@
         },
         "bgsu-lits/ldap.json": {
             "sha": "a772a5dfabc3727dd29f86dcbcaea082aac661ce"
-        }
+        },
         "biblibre/elementtypes.json": {
             "sha": "1c67d55a04a0b1e532acc85f4a2666fe457e2f6b"
         },
@@ -46,7 +46,7 @@
         "omeka/itemrelations.json": {
             "sha": "dffc7632974990a76feb14be6e379bdb42349838"
         },
-                "omeka/omeka.json": {
+        "omeka/omeka.json": {
             "sha": "919f153aba4e3eb9f0fd2a9f155526e923da7bd6"
         },
         "omeka/simplecontactform.json": {
@@ -60,10 +60,11 @@
         },
         "performantsoftware/neatline.json": {
             "sha": "9f3ea82053ec3796b372e6682b1d45469b6a6ec4"
-        },        "actechlab/durationtype.json": {
+        },        
+        "actechlab/durationtype.json": {
             "sha": "a8fbbb46e313add55f2f9a37fd87fa350d610700"
         },
-                "scholarslab/neatlinefeatures.json": {
+        "scholarslab/neatlinefeatures.json": {
             "sha": "43291ae65a8b998b9561c835b91c235535b3ae17"
         },
         "scholarslab/neatlinewaypoints.json": {
